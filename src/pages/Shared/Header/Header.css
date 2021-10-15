@@ -1,0 +1,23 @@
+.login-button{
+    border: none;
+    padding: 5px 20px;
+    background-color: white;
+}
+
+.signup-button{
+    border: none;
+    padding: 8px 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: #FA4265;
+}
+
+.cart-button{
+    border: none;
+    background-color: white;
+    padding: 8px 10px;
+}
+
+.logo{
+    width: 130px;
+}

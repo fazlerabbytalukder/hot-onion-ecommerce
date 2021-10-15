@@ -1,0 +1,44 @@
+[
+    {
+        "id": 13,
+        "breakfastname": "Salmon with Grapefruit",
+        "img": "https://i.ibb.co/sVFXjvL/dinner1.png",
+        "price": 23.99,
+        "details": "A breakfast sandwich is any sandwich fil"
+    },
+    {
+        "id": 14,
+        "breakfastname": "Lemony Salmon Piccata",
+        "img": "https://i.ibb.co/Bjcb338/dinner2.png",
+        "price": 9.99,
+        "details": "A medium chicken breast will take 18 – 2"
+    },
+    {
+        "id": 15,
+        "breakfastname": "French fries with cheese",
+        "img": "https://i.ibb.co/rsN000S/dinner3.png",
+        "price": 8.99,
+        "details": "Eggs Benedict is a common American break"
+    },
+    {
+        "id": 16,
+        "breakfastname": "Garlic Butter Baked",
+        "img": "https://i.ibb.co/ngSt6rQ/dinner4.png",
+        "price": 14.99,
+        "details": "Before you start topping the croissants"
+    },
+    {
+        "id": 17,
+        "breakfastname": "Beaf Steak",
+        "img": "https://i.ibb.co/cQ0QgVg/dinner5.png",
+        "price": 3.99,
+        "details": "Sometimes called a fry up, a full Englis"
+    },
+    {
+        "id": 18,
+        "breakfastname": "Baked Chicken",
+        "img": "https://i.ibb.co/j3qkn1d/dinner6.png",
+        "price": 16.99,
+        "details": "A breakfast sandwich is any sandwich fil"
+    }
+]

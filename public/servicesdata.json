@@ -1,0 +1,20 @@
+[
+    {
+        "id": 19,
+        "servicename": "Fast Delivary",
+        "img": "https://i.ibb.co/z4tBphp/adult-blur-blurred-background-687824.png",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, illum est? Nisi voluptate, est eaque quia enim commodi dicta sint. Sapiente dolorum voluptates doloribus quasi sit labore expedita accusamus et."
+    },
+    {
+        "id": 20,
+        "servicename": "Good Chef",
+        "img": "https://i.ibb.co/S0F3N63/brooke-lark-158019-unsplash.png",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, illum est? Nisi voluptate, est eaque quia enim commodi dicta sint. Sapiente dolorum voluptates doloribus quasi sit labore expedita accusamus et."
+    },
+    {
+        "id": 21,
+        "servicename": "Home Delivery",
+        "img": "https://i.ibb.co/zXsNRzw/architecture-building-city-2047397.png",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, illum est? Nisi voluptate, est eaque quia enim commodi dicta sint. Sapiente dolorum voluptates doloribus quasi sit labore expedita accusamus et."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "breakfastname": "Begal and cream cheese",
+        "img": "https://i.ibb.co/VCDp8d4/breakfast1.png",
+        "price": 9.99,
+        "details": "A breakfast sandwich is any sandwich fil"
+    },
+    {
+        "id": 2,
+        "breakfastname": "Baked Chicken",
+        "img": "https://i.ibb.co/Zx5L72J/breakfast2.png",
+        "price": 11.99,
+        "details": "A medium chicken breast will take 18 – 2"
+    },
+    {
+        "id": 3,
+        "breakfastname": "Egg Benedict",
+        "img": "https://i.ibb.co/TY9GT0J/breakfast3.png",
+        "price": 8.99,
+        "details": "Eggs Benedict is a common American break"
+    },
+    {
+        "id": 4,
+        "breakfastname": "Toast Croissant egg",
+        "img": "https://i.ibb.co/51TpMxD/breakfast4.png",
+        "price": 14.99,
+        "details": "Before you start topping the croissants"
+    },
+    {
+        "id": 5,
+        "breakfastname": "Full Breakfast Fries",
+        "img": "https://i.ibb.co/DYg993Z/breakfast5.png",
+        "price": 3.99,
+        "details": "Sometimes called a fry up, a full Englis"
+    },
+    {
+        "id": 6,
+        "breakfastname": "Breakfast sandwitch",
+        "img": "https://i.ibb.co/jHLmTnd/breakfast6.png",
+        "price": 16.99,
+        "details": "A breakfast sandwich is any sandwich fil"
+    }
+]
